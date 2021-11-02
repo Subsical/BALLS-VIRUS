@@ -2,7 +2,7 @@
 
 int main() {
     for(;;) {
-        std::cout << "BALLS ";
+        std::cout << "NUTS ";
     }
     return 1;
 }
